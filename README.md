@@ -16,4 +16,4 @@
 
 ## Article
 You can read the original article at [dev.to](https://dev.to/ibrahima92/how-to-build-a-pwa-from-scratch-with-html-css-and-javascript-4bg5)  
-This project is currently hosted at [netlify](https://epic-nightingale-a98b35.netlify.com/)
+This project is currently hosted at [netlify](https://pwa-coffee.netlify.com/)
